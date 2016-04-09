@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MineView">
+        <attr name="isBomb" format="boolean"/>
+        <attr name="nbBombAround" format="integer">
+        </attr>
+    </declare-styleable>
+</resources>
